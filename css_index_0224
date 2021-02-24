@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!-- css/style.css는 css 폴더 안에 style.css에서 끌어옴을 의미 -->
+    <style>
+      /* 인터널 방식 */
+      /* h1{
+        color:red;
+      }
+
+      h2{
+        color:blue;
+      } */
+
+    </style>
+
+  </head>
+  <body>
+
+    <!-- 인라인 방식 : 위와 같이 body에서 직접 정의
+    <h1 style="background-color:yellow";>빅데이터 클라스</h1>
+    <h2 id="bg">id HTML & CSS</h2>
+    <h3 class="size color"> class 선택자 </h3> -->
+
+
+    <!-- 상속 개념. color가 자식들에게 상속된다 -->
+    <!-- <header>
+      <h1>header h1</h1>
+      <p>header p</p>
+    </header> -->
+
+
+    <!-- <header>
+      <h2>Hello World</h2>
+    </header> -->
+
+    <h3 style="color:pink;" id="color" class="color">Welcome to CSS</h3>
+
+    <!-- css 속성의 우선순위
+    인라인 방식(1) > id 선택자(2) > class 선택자(3) > type 선택자(4) -->
+    
+  </body>
+</html>
