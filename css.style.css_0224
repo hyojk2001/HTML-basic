@@ -1,0 +1,17 @@
+/* header h2 {
+  color : blue;
+}
+
+h2{
+  color: red;
+} */
+
+/* id > class > type */
+
+.color{
+  color: red;
+}
+
+h3{
+  color: green;
+}
