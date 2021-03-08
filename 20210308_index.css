@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+
+    <table border=1>
+      <tr><td>우리는</td><td>민족 중흥의</td><td>ㅇㅇ</td></tr>
+      <tr><td>역사적</td><td>사명을 띠고</td></tr>
+      <!-- <td>(데이터)</td>는 칸, <tr>(데이터)</tr>은 줄을 생성한다 -->
+    </table>
+
+
+  </body>
+</html>
